@@ -18,8 +18,8 @@ Citizen.CreateThread(function()
 		  SetDiscordRichPresenceAssetSmall('ALDADev_') -- Malý obrázek
 		  SetDiscordRichPresenceAssetSmallText("ALDADev_") -- Text na malém obrázku
 		  
-		  SetDiscordRichPresenceAction(0, "Discord", "ALDADev_")
-		  SetDiscordRichPresenceAction(1, "ALDADev_", "fivem://connect/ALDADev_")	
+		  SetDiscordRichPresenceAction(0, "ALDADev_", "ALDADev_") -- Tlačítko 1 (0, "doplníte co bude na tlačítku", "odkaz-tam kam budete přesměrován když kliknete")
+		  SetDiscordRichPresenceAction(1, "ALDADev_", "ALDADev_") -- Tlačítko 2 (1, "doplníte co bude na tlačítku", "odkaz-tam kam budete přesměrován když kliknete")	
 	end
 end)
 
