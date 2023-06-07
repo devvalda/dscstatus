@@ -4,5 +4,5 @@ client_scripts {
 	"client.lua",
 }
 
-author 'Gojaneu#0001'
+author 'ᴀʟᴇxxɪᴋ 🧃#0172'
 client_script "@ftrp_discord/acloader.lua"
