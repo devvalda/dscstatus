@@ -5,4 +5,4 @@ client_scripts {
 }
 
 author 'ᴀʟᴇxxɪᴋ 🧃#0172'
-client_script "@ftrp_discord/acloader.lua"
+client_script "@aldadev_discord/acloader.lua"
